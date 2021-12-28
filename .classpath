@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Atomation/Selenium jars and drivers/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Atomation/Selenium jars and drivers/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Atomation/Selenium jars and drivers/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Atomation/Selenium jars and drivers/Sql/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="D:/Atomation/Selenium jars and drivers/Sql/protobuf-java-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
