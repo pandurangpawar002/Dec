@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class testSqlDB {
 
+	 //DB Test PP 
 	@Test
 	public void test() throws ClassNotFoundException, SQLException {
 
